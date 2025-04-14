@@ -72,7 +72,7 @@ model.summary()
 | Loss        | 0.74       |
 
 -----------------------------------------------------------------------
-## Implementasi
+## ☑️Implementasi
 ![image](https://github.com/user-attachments/assets/771a3787-02f9-40d8-842b-93e3eb9c9d1b)
 
 
